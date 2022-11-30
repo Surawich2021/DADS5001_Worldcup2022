@@ -40,5 +40,11 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 ![program04](https://user-images.githubusercontent.com/77851559/204714254-f1d451d4-9820-4f12-a880-dafb22c5bd76.png)
 รูปที่4. เขียนชุดคำสั่งบน Jupython Notebook โดยใช้ Python Library os, json และ pymongo เพื่อนำไฟล์ในเครื่อง Local PC เข้าสู่ MongoDB
 
+![program05](https://user-images.githubusercontent.com/77851559/204714986-d4c9b3a4-bee9-4732-ab7c-722916031c23.png)
+รูปที่5. ตรวจสอบข้อมูลใน MongoDB ว่าข้อมูลถูก upload ครบถ้วนถูกต้องตามต้องการหรือไม่
+
+
+
+จากการนำเครื่องมือ Python พัฒนา Application สำหรับฐานข้อมูลประเภท NoSQL บน MongoDB เพื่อบันทึกข้อมูลฟุตบอลโลก World Cup 2022 และออกรายงานครั้งนี้ ต้องขอขอบคุณอาจารย์ ผศ.ดร.เอกรัฐ รัฐกาญจน์ ผู้อำนวยการหลักสูตรการวิเคราะห์ข้อมูลและวิทยาการข้อมูล คณะสถิติประยุกต์ สถาบันบัณฑิตพัฒนบริหารศาสตร์ ที่ช่วยเหลือให้คำแนะนำเพื่อไปต่อยอดองค์ความรู้ของการทำ Data Analytics ครั้งนี้ด้วยครับ
 
 ![worldcup03](https://user-images.githubusercontent.com/77851559/204710240-2e912d1a-6f35-4904-afbd-b89f9293e1ff.jpg)
