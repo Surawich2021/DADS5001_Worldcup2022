@@ -84,7 +84,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 ในกรณีที่กดปุ่ม Create user จะต้องทำการบันทึกข้อมูลรายละเอียดการแข่งขันตามตัวอย่างดังรูปต่อไปนี้
 
-
+![program07 1](https://user-images.githubusercontent.com/77851559/204771204-a7b788cf-210e-42e6-83bf-d526dede1dbd.png)
 
 *รูปที่ 7.1 ชุดคำสั่งใน Create Mode*
 
