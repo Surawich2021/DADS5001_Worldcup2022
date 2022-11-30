@@ -29,7 +29,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 # ขั้นตอนการใส่ข้อมูล JSON เข้าฐานข้อมูล MongoDB:
 
 ![program01](https://user-images.githubusercontent.com/77851559/204712061-c245be38-d018-4320-a0c3-bb5e0eab6059.png)
-รูปที่1. นำข้อมูลดิบ JSON raw data จากใน link https://fixturedownload.com/results/fifa-world-cup-2022 มาตรวจสอบโครงสร้าง ผ่านใช้โปรแกรม JSON EDITOR ONLINE https://jsoneditoronline.org/#left=local.masexo แล้ว download มาเก็บไว้ในเครื่อง Local PC
+รูปที่1. นำข้อมูลดิบ JSON raw data จากใน link https://fixturedownload.com/results/fifa-world-cup-2022 มาตรวจสอบโครงสร้าง โดยใช้โปรแกรม JSON EDITOR ONLINE https://jsoneditoronline.org/#left=local.masexo แล้ว download file ที่ได้มาเก็บไว้ในเครื่อง Local PC
 
 ![program02](https://user-images.githubusercontent.com/77851559/204712790-516543d3-55af-43d0-ad52-0470acfd75fd.png)
 รูปที่2. นำข้อมูลดิบ JSON raw data ที่ได้ มาจัด Format ใหม่ให้พร้อมใช้งานผ่านโปรแกรม Visual Studio Code
