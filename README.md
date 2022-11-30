@@ -66,16 +66,48 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 8. Exit
 
 ![program06 1](https://user-images.githubusercontent.com/77851559/204768478-08151627-2ac2-472f-a080-db9c3cc080ab.png)
+
 *รูปที่ 6.1 ชุดคำสั่ง GUIหน้าแรก เพื่อเลือก Mode ในการใช้งาน*
 
 ![program06 2](https://user-images.githubusercontent.com/77851559/204769019-36201481-de07-4365-ae29-3a62fe3d93c8.png)
+
 *รูปที่ 6.2 ตัวอย่าง GUIหน้าแรก เพื่อเลือก Mode ในการใช้งาน*
 
 ![program06 3](https://user-images.githubusercontent.com/77851559/204769333-9574533b-f403-4d84-bc75-e2adf3c6b2dc.png)
+
 *รูปที่ 6.3 ผลลัพธ์กรณีกดเลือกปุ่ม Exit เพื่อเลือกออกจาก Mode ในการใช้งาน*
 
 ![program06 4](https://user-images.githubusercontent.com/77851559/204769491-a832c5f0-caee-4de4-852d-f8631f13857c.png)
+
 *รูปที่ 6.4 ตัวอย่าง GUI เพื่อเลือกยืนยันว่าจะออกจาก Mode ในการใช้งาน*
+
+
+ในกรณีที่กดปุ่ม Create user จะต้องทำการบันทึกข้อมูลรายละเอียดการแข่งขันตามตัวอย่างดังรูปต่อไปนี้
+
+
+
+*รูปที่ 7.1 ชุดคำสั่งใน Create Mode*
+
+
+
+*รูปที่ 7.2 ตัวอย่าง GUI เพื่อสร้างข้อมูลใหม่ใน Create Mode*
+
+
+
+*รูปที่ 7.3 หลังจากกด Submit จะได้ตัวอย่าง GUI เพื่อยืนยันข้อมูลที่เพิ่งสร้างไป*
+
+
+
+*รูปที่ 7.4 ทำการตรวจสอบข้อมูลที่เพิ่งสร้างไปใน Cloud MongoDB*
+
+
+
+
+
+
+
+
+
 
 
 # ขั้นตอนการออกแบบ Report สรุปผลการแข่งขันฟุตบอลโลก World Cup2022:
