@@ -147,7 +147,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 10.5 ผลลัพธ์ของการค้นหาข้อมูล*
 
-
+![program10 6](https://user-images.githubusercontent.com/77851559/204781464-5d3e537d-dce0-49d9-8947-450932adc07a.png)
 
 *รูปที่ 10.6 ทำการตรวจสอบข้อมูลที่เพิ่ง updateไป ใน Cloud MongoDB*
 
