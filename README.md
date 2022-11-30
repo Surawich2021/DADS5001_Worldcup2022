@@ -177,7 +177,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 *รูปที่ 12.2 ตัวอย่าง GUI เพื่อใส่ Match Number ที่ต้องการจะลบใน Delete Mode*
 
 
-# ขั้นตอนการออกแบบ Report สรุปผลการแข่งขันฟุตบอลโลก World Cup2022:
+# ขั้นตอนการออกแบบ Report สรุปผลรวมประตูที่แต่ล่ะกลุ่มทำได้ในรอบแรกของฟุตบอลโลก World Cup 2022:
 
 ![program13 1](https://user-images.githubusercontent.com/77851559/204858445-f26b8c84-b44a-4dc4-87d5-df9486e5369e.png)
 
@@ -187,9 +187,9 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 13.2 ชุดคำสั่งใน Report Mode พร้อมกับผลลัพธ์ (ต่อ)*
 
+![program13 3](https://user-images.githubusercontent.com/77851559/204859566-8b1c267f-34f2-4752-a077-0bd9da3aa89a.png)
 
-
-*รูปที่ 13.3 กราฟเส้น และ กราฟแท่ง เพื่อสรุปผลรวมประตูที่แต่ล่ะกลุ่มทำได้ในรอบแรกของฟุตบอลโลก World Cup 2022 (ต่อ)*
+*รูปที่ 13.3 กราฟเส้น และ กราฟแท่ง เพื่อสรุปผลรวมประตูที่แต่ล่ะกลุ่มทำได้ในรอบแรกของฟุตบอลโลก World Cup 2022*
 
 # Link Youtube ตัวอย่างการใช้งาน Application:
 
