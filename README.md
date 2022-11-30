@@ -32,19 +32,19 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 # ขั้นตอนการใส่ข้อมูลตารางการแข่งขันฟุตบอลโลก World Cup2022 เข้าฐานข้อมูล MongoDB:
 
 ![program01](https://user-images.githubusercontent.com/77851559/204712061-c245be38-d018-4320-a0c3-bb5e0eab6059.png)
-รูปที่1. นำข้อมูลดิบ JSON raw data จากใน link https://fixturedownload.com/results/fifa-world-cup-2022 มาตรวจสอบโครงสร้าง โดยใช้โปรแกรม JSON EDITOR ONLINE https://jsoneditoronline.org/#left=local.masexo แล้ว download file ที่ได้มาเก็บไว้ในเครื่อง Local PC
+*รูปที่1.* นำข้อมูลดิบ JSON raw data จากใน link https://fixturedownload.com/results/fifa-world-cup-2022 มาตรวจสอบโครงสร้าง โดยใช้โปรแกรม JSON EDITOR ONLINE https://jsoneditoronline.org/#left=local.masexo แล้ว download file ที่ได้มาเก็บไว้ในเครื่อง Local PC
 
 ![program02](https://user-images.githubusercontent.com/77851559/204712790-516543d3-55af-43d0-ad52-0470acfd75fd.png)
-รูปที่2. นำข้อมูลดิบ JSON raw data ที่ได้ มาจัด Format ใหม่ให้พร้อมใช้งานผ่านโปรแกรม Visual Studio Code
+*รูปที่2.* นำข้อมูลดิบ JSON raw data ที่ได้ มาจัด Format ใหม่ให้พร้อมใช้งานผ่านโปรแกรม Visual Studio Code
 
 ![program03](https://user-images.githubusercontent.com/77851559/204713038-cbfa0a70-e14b-4257-92b3-048fea985948.png)
-รูปที่3. ข้อมูล JSON จะอยู่ในรูปแบบพร้อมใช้งาน เพื่อนำเข้าสู่ MongoDB 
+*รูปที่3.* ข้อมูล JSON จะอยู่ในรูปแบบพร้อมใช้งาน เพื่อนำเข้าสู่ MongoDB 
 
 ![program04](https://user-images.githubusercontent.com/77851559/204714254-f1d451d4-9820-4f12-a880-dafb22c5bd76.png)
-รูปที่4. เขียนชุดคำสั่งบน Jupython Notebook โดยใช้ Python Library os, json และ pymongo เพื่อนำไฟล์ในเครื่อง Local PC เข้าสู่ MongoDB
+*รูปที่4.* เขียนชุดคำสั่งบน Jupython Notebook โดยใช้ Python Library os, json และ pymongo เพื่อนำไฟล์ในเครื่อง Local PC เข้าสู่ MongoDB
 
 ![program05](https://user-images.githubusercontent.com/77851559/204714986-d4c9b3a4-bee9-4732-ab7c-722916031c23.png)
-รูปที่5. ตรวจสอบข้อมูลใน MongoDB ว่าข้อมูลถูก upload ครบถ้วนถูกต้องตามต้องการหรือไม่
+*รูปที่5.* ตรวจสอบข้อมูลใน MongoDB ว่าข้อมูลถูก upload ครบถ้วนถูกต้องตามต้องการหรือไม่
 
 # ขั้นตอนการเขียน GUI เพื่อทำ CRUD ข้อมูลตารางการแข่งขันฟุตบอลโลก World Cup2022:
 
