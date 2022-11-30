@@ -71,7 +71,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 ![program06 2](https://user-images.githubusercontent.com/77851559/204769019-36201481-de07-4365-ae29-3a62fe3d93c8.png)
 *รูปที่ 6.2 ตัวอย่าง GUIหน้าแรก เพื่อเลือก Mode ในการใช้งาน*
 
-
+![program06 3](https://user-images.githubusercontent.com/77851559/204769333-9574533b-f403-4d84-bc75-e2adf3c6b2dc.png)
 *รูปที่ 6.3 ผลลัพธ์กรณีกดเลือกปุ่ม Exit เพื่อเลือกออกจาก Mode ในการใช้งาน*
 
 
