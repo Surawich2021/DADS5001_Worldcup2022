@@ -92,7 +92,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 7.2 ตัวอย่าง GUI เพื่อสร้างข้อมูลใหม่ใน Create Mode*
 
-
+![program07 3](https://user-images.githubusercontent.com/77851559/204774646-e92c443c-67f2-4280-9a1d-2cbc1ed79532.png)
 
 *รูปที่ 7.3 หลังจากกด Submit จะได้ตัวอย่าง GUI เพื่อยืนยันข้อมูลที่เพิ่งสร้างไป*
 
