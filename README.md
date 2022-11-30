@@ -88,7 +88,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 7.1 ชุดคำสั่งใน Create Mode*
 
-
+![program07 2](https://user-images.githubusercontent.com/77851559/204774458-20374a6d-7395-4de4-afbb-ee78b964b0f9.png)
 
 *รูปที่ 7.2 ตัวอย่าง GUI เพื่อสร้างข้อมูลใหม่ใน Create Mode*
 
