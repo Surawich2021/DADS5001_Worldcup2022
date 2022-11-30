@@ -11,7 +11,7 @@ worldcup2022_rawdata.json from link : https://fixturedownload.com/results/fifa-w
 # Challenge:
 1. ใช้เวลาในการทำความเข้าใจโครงสร้างข้อมูล JSON
 
-2. ใช้เวลาในการเรียนรู้ Python Library Pymongo, PySimpleGUI, Plotly
+2. ใช้เวลาในการเรียนรู้ Python Library Pymongo, PySimpleGUI
 
 3. บางครั้ง MongoDB Cloud connection ที่สิงค์โปร์ทำงานช้ามาก
 
