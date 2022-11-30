@@ -113,7 +113,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 9.1 ชุดคำสั่งและผลลัพธ์ใน Retrive Mode*
 
-
+![program09 2](https://user-images.githubusercontent.com/77851559/204777848-7c5693cb-3e89-470f-850f-7f7e55113d02.png)
 
 *รูปที่ 9.2 ตัวอย่าง GUI เพื่อค้นหาข้อมูลใน Retrive Mode*
 
