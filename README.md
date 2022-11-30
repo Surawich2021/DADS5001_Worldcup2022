@@ -162,9 +162,19 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 11.2 ชุดคำสั่งและผลัพธ์ของ Delete All Mode*
 
-
+![program11 3](https://user-images.githubusercontent.com/77851559/204783163-f425e9e5-584c-4af1-94a6-d78cb6fddc01.png)
 
 *รูปที่ 11.3 ทำการตรวจสอบข้อมูลที่เพิ่งลบไปทั้งหมดไป ใน Cloud MongoDB*
+
+- ในกรณีที่กดปุ่ม Delete user จะต้องเลือกกรอกข้อมูลที่ต้องการจะลบทิ้งโดยการอ้าง Match Number ตามตัวอย่างดังรูปต่อไปนี้
+
+
+
+*รูปที่ 12.1 ชุดคำสั่งใน Delete Mode*
+
+
+
+*รูปที่ 12.2 ตัวอย่าง GUI เพื่อใส่ Match Number ที่ต้องการจะลบใน Delete Mode*
 
 
 
