@@ -183,9 +183,10 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 13.1 ชุดคำสั่งใน Report Mode*
 
-
+![program13 2](https://user-images.githubusercontent.com/77851559/204859215-601c4854-7136-41c0-b1be-fd5b8054a981.png)
 
 *รูปที่ 13.2 ชุดคำสั่งใน Report Mode พร้อมกับผลลัพธ์ (ต่อ)*
+
 
 
 *รูปที่ 13.3 กราฟเส้น และ กราฟแท่ง เพื่อสรุปผลรวมประตูที่แต่ล่ะกลุ่มทำได้ในรอบแรกของฟุตบอลโลก World Cup 2022 (ต่อ)*
