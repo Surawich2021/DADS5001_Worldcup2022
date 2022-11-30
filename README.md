@@ -102,7 +102,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 - ในกรณีที่กดปุ่ม Retrive All user จะได้ข้อมูลทั้งหมดตามตัวอย่างดังรูปต่อไปนี้
 
-
+![program08 1](https://user-images.githubusercontent.com/77851559/204775608-9cfa60f8-57c0-4cc8-8ec1-2b68343a4dd9.png)
 
 *รูปที่ 8.1 ชุดคำสั่งและผลลัพธ์ใน Retrive All Mode*
 
