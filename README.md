@@ -34,7 +34,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 ![program02](https://user-images.githubusercontent.com/77851559/204712790-516543d3-55af-43d0-ad52-0470acfd75fd.png)
 รูปที่2. นำข้อมูลดิบ JSON raw data ที่ได้ มาจัด Format ใหม่ให้พร้อมใช้งานผ่านโปรแกรม Visual Studio Code
 
-
+![program03](https://user-images.githubusercontent.com/77851559/204713038-cbfa0a70-e14b-4257-92b3-048fea985948.png)
 รูปที่3. ข้อมูล JSON จะอยู่ในรูปแบบพร้อมใช้งาน เพื่อนำเข้าสู่ MongoDB 
 
 
