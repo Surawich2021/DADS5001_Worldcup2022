@@ -135,7 +135,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 10.2 ตัวอย่าง GUI เพื่อค้นหาข้อมูลที่ต้องการจะ update ใน Update Mode*
 
-
+![program10 3](https://user-images.githubusercontent.com/77851559/204780967-360311ab-33ff-4d11-b032-a906a7194151.png)
 
 *รูปที่ 10.3 ตัวอย่าง GUI เพื่อใส่ข้อมูลค่าใหม่ที่ต้องการจะ update ใน Update Mode*
 
