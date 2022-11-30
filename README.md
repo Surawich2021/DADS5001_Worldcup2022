@@ -143,7 +143,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 10.4 ตัวอย่าง GUI เพื่อยืนยันการ update ข้อมูล ใน Update Mode*
 
-
+![program10 5](https://user-images.githubusercontent.com/77851559/204781282-f3b2c45e-8046-4ef8-8b19-95b7e50c5445.png)
 
 *รูปที่ 10.5 ผลลัพธ์ของการค้นหาข้อมูล*
 
