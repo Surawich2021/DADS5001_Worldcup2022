@@ -109,7 +109,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 - ในกรณีที่กดปุ่ม Retrive user จะต้องใส่ข้อมูลใน selection screen เพื่อทำการค้นหาข้อมูลตามตัวอย่างดังรูปต่อไปนี้
 
-
+![program09 1](https://user-images.githubusercontent.com/77851559/204777702-1ba20bb1-64c9-4921-bae4-e0dec8146506.png)
 
 *รูปที่ 9.1 ชุดคำสั่งและผลลัพธ์ใน Retrive Mode*
 
