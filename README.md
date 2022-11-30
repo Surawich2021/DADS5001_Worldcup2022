@@ -139,7 +139,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 10.3 ตัวอย่าง GUI เพื่อใส่ข้อมูลค่าใหม่ที่ต้องการจะ update ใน Update Mode*
 
-
+![program10 4](https://user-images.githubusercontent.com/77851559/204781136-42ab84d8-4d56-4329-9a87-91d94e8e40f4.png)
 
 *รูปที่ 10.4 ตัวอย่าง GUI เพื่อยืนยันการ update ข้อมูล ใน Update Mode*
 
