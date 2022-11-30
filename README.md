@@ -179,7 +179,16 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 # ขั้นตอนการออกแบบ Report สรุปผลการแข่งขันฟุตบอลโลก World Cup2022:
 
+![program13 1](https://user-images.githubusercontent.com/77851559/204858445-f26b8c84-b44a-4dc4-87d5-df9486e5369e.png)
 
+*รูปที่ 13.1 ชุดคำสั่งใน Report Mode*
+
+
+
+*รูปที่ 13.2 ชุดคำสั่งใน Report Mode พร้อมกับผลลัพธ์ (ต่อ)*
+
+
+*รูปที่ 13.3 กราฟเส้น และ กราฟแท่ง เพื่อสรุปผลรวมประตูที่แต่ล่ะกลุ่มทำได้ในรอบแรกของฟุตบอลโลก World Cup 2022 (ต่อ)*
 
 # Link Youtube ตัวอย่างการใช้งาน Application:
 
