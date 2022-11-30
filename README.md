@@ -168,7 +168,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 - ในกรณีที่กดปุ่ม Delete user จะต้องเลือกกรอกข้อมูลที่ต้องการจะลบทิ้งโดยการอ้าง Match Number ตามตัวอย่างดังรูปต่อไปนี้
 
-
+![program12 1](https://user-images.githubusercontent.com/77851559/204784406-4df6d064-2479-4c6e-8a17-5e8f2fcefe1f.png)
 
 *รูปที่ 12.1 ชุดคำสั่งใน Delete Mode*
 
