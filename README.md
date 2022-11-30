@@ -158,7 +158,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 11.1 ชุดคำสั่งใน Delete All Mode*
 
-
+![program11 2](https://user-images.githubusercontent.com/77851559/204782965-4b006a50-7253-49d4-b9e4-c3ae9b5fd766.png)
 
 *รูปที่ 11.2 ชุดคำสั่งและผลัพธ์ของ Delete All Mode*
 
