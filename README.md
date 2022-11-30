@@ -172,10 +172,9 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 *รูปที่ 12.1 ชุดคำสั่งใน Delete Mode*
 
-
+![program12 2](https://user-images.githubusercontent.com/77851559/204784552-9e4da946-546e-4465-993c-66d59d219b50.png)
 
 *รูปที่ 12.2 ตัวอย่าง GUI เพื่อใส่ Match Number ที่ต้องการจะลบใน Delete Mode*
-
 
 
 # ขั้นตอนการออกแบบ Report สรุปผลการแข่งขันฟุตบอลโลก World Cup2022:
