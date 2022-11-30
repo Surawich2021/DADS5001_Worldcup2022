@@ -68,7 +68,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 ![program06 1](https://user-images.githubusercontent.com/77851559/204768478-08151627-2ac2-472f-a080-db9c3cc080ab.png)
 *รูปที่ 6.1 ชุดคำสั่ง GUIหน้าแรก เพื่อเลือก Mode ในการใช้งาน*
 
-
+![program06 2](https://user-images.githubusercontent.com/77851559/204769019-36201481-de07-4365-ae29-3a62fe3d93c8.png)
 *รูปที่ 6.2 ตัวอย่าง GUIหน้าแรก เพื่อเลือก Mode ในการใช้งาน*
 
 
