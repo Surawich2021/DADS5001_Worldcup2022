@@ -27,8 +27,14 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 
 
+รูปที่1. นำข้อมูลดิบ JSON raw data มาตรวจสอบโครงสร้าง ผ่านโปรแกรม JSON EDITOR ONLINE https://jsoneditoronline.org/#left=local.masexo
+
+รูปที่2. นำข้อมูลดิบ JSON raw data มาจัด Format ให้พร้อมใช้งานผ่านโปรแกรม Visual Studio Code
+
+รูปที่3. ข้อมูล JSON จะอยู่ในรูปแบบพร้อมใช้งาน เพื่อนำเข้าสู่ MongoDB 
 
 
 
 
 
+![worldcup03](https://user-images.githubusercontent.com/77851559/204710240-2e912d1a-6f35-4904-afbd-b89f9293e1ff.jpg)
