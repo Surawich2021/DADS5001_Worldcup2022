@@ -127,7 +127,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 - ในกรณีที่กดปุ่ม Update user จะต้องใส่ข้อมูลใน selection screen เพื่อทำการค้นหาข้อมูลที่ต้องการจะ update ตามตัวอย่างดังรูปต่อไปนี้
 
-
+![program10 1](https://user-images.githubusercontent.com/77851559/204780703-6b5af699-138a-4f0c-b174-11781fda1c9b.png)
 
 *รูปที่ 10.1 ชุดคำสั่งและผลลัพธ์ใน Update Mode*
 
