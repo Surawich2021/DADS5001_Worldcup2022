@@ -65,7 +65,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 8. Exit
 
-
+![program06 1](https://user-images.githubusercontent.com/77851559/204768478-08151627-2ac2-472f-a080-db9c3cc080ab.png)
 *รูปที่ 6.1 ชุดคำสั่ง GUIหน้าแรก เพื่อเลือก Mode ในการใช้งาน*
 
 
