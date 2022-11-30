@@ -50,7 +50,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 
 
 
-# ขั้นตอนการออก Report การแข่งขันฟุตบอลโลก World Cup2022:
+# ขั้นตอนการออกแบบ Report สรุปผลการแข่งขันฟุตบอลโลก World Cup2022:
 
 
 
