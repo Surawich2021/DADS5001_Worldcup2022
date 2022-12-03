@@ -192,6 +192,7 @@ https://github.com/Surawich2021/DADS5001_Worldcup2022
 *รูปที่ 13.3 กราฟเส้น และ กราฟแท่ง เพื่อสรุปผลรวมประตูที่แต่ล่ะกลุ่มทำได้ในรอบแรกของฟุตบอลโลก World Cup 2022*
 
 # Link Youtube ตัวอย่างการใช้งาน Application:
+https://www.youtube.com/watch?v=fdHT5JKo7fM
 
 
 
