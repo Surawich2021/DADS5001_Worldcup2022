@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 # load JSON data to Mongo database
@@ -30,7 +30,7 @@ for line in f:
     x=collection.insert_one(database)
 
 
-# In[ ]:
+# In[7]:
 
 
 # 1.Create
@@ -80,7 +80,7 @@ def create_func():
     x = collection.insert_one(document)
 
 # 2.Retrive All
-def retriveall_func()
+def retriveall_func():
     import pymongo
     uri = "mongodb+srv://surawich:10AreeratNp*@cluster0.k7k2ihc.mongodb.net/?retryWrites=true&w=majority"
     client = pymongo.MongoClient(uri)
@@ -92,7 +92,7 @@ def retriveall_func()
         print()
 
 # 3.Retrive
-def retrive_func()
+def retrive_func():
     import PySimpleGUI as sg
 
     sg.theme('Dark Blue 1')  # please make your windows colorful
@@ -141,7 +141,7 @@ def retrive_func()
         print()
 
 # 4.Update
-def update_func()
+def update_func():
     import PySimpleGUI as sg
 
     sg.theme('Dark Blue 1')  # please make your windows colorful
@@ -187,7 +187,7 @@ def update_func()
         print()
         
 # 5.Delete All
-def deleteall_func()
+def deleteall_func():
     import pymongo
     uri = "mongodb+srv://surawich:10AreeratNp*@cluster0.k7k2ihc.mongodb.net/?retryWrites=true&w=majority"
     client = pymongo.MongoClient(uri)
@@ -200,7 +200,7 @@ def deleteall_func()
 
         
 # 6.Delete
-def delete_func()
+def delete_func():
     import PySimpleGUI as sg
 
     sg.theme('Dark Red 1')  # please make your windows colorful
@@ -233,7 +233,7 @@ def delete_func()
         print()
 
 # 7.Report
-def report_func()
+def report_func():
     import pymongo
     import matplotlib as mpl
     import matplotlib.pyplot as plt
@@ -355,4 +355,16 @@ while True:
         break
         
 window.close()
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
